@@ -8,4 +8,4 @@ default:
 clean:
 	rm -fr vlckit
 	rm -f build.log
-	rm -v TVVLCKit.framework
+	rm -f TVVLCKit.framework
